@@ -1,5 +1,5 @@
 {
-  "name": "leaf-mulch-ir-sensor-serial-logger-plotter-backend",
+  "name": "leaf-mulch-infrared-sensors-serial-logger-plotter-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
